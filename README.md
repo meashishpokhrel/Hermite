@@ -1,5 +1,5 @@
 # QE_process
-The purpose of this codes is to share my ideas of Quantum Espression calculation of CaTiO3 for variety of computations.
+The purpose of these codes is to share my ideas of using Quantum Espression for CaTiO3 for variety of computations.
 1) Lattice constant
 2) Kinetic energy cut-off
 3) k-point grid sampling
